@@ -20,9 +20,9 @@
                     <i class="fas fa-times"></i>
                 </div>
                 <li><a href="../../index.php">Home</a></li>
-                <li><a href="../../aboutUs.php">About</a></li>
-                <li><a href="../../colleges.php">Colleges</a></li>
-                <li><a href="../../destinations.php">Destinations</a></li>
+                <li><a href="../../AboutUs.php">About</a></li>
+                <li><a href="../../Colleges.php">Colleges</a></li>
+                <li><a href="../../Destinations.php">Destinations</a></li>
                 <li><a href="../../profile.html">My Profile</a></li>
             </ul>
             <div class="icon menu-btn">
