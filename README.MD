@@ -11,7 +11,6 @@ HTML
 CSS
 JavaScript
 PHP
-GuzzleHTTP library
 ## How to Use
 To use the Spring Break Dates Finder, simply navigate to the website and either search for a specific college or view the full list of colleges with their corresponding dates. The website is mobile-responsive, so it can be used on any device.
 
